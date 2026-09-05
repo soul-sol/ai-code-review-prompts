@@ -4,6 +4,14 @@
 
 Each prompt turns any strong code model (Claude, GPT/codex, etc.) into a hostile reviewer with one job: **assume the diff is broken, and prove it.** Findings come back in a fixed format — `SEVERITY / LOCATION / FAILURE SCENARIO / MINIMAL REPRO` — and praise is forbidden. "No findings" is only accepted together with a list of what was actually checked.
 
+
+> These came out of running Claude Code and Codex workers in parallel every day.
+> The incidents behind them — what the agent claimed, what actually happened, and the
+> gate that catches it next time — are at
+> [status.lifestep.io/incidents](https://status.lifestep.io/incidents/).
+> The full set is [The Adversarial Review Prompt Pack](https://lifestep1.gumroad.com/l/adversarial-review-prompt-pack) ($7);
+> what is here stays free and MIT either way.
+
 ## The 5 free prompts
 
 | # | Prompt | Hunts for |
