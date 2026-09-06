@@ -46,7 +46,6 @@ Related: [agent-watch](https://github.com/soul-sol/agent-watch) (stall detection
 
 The 5 prompt files in this repository are MIT licensed — use them anywhere, including commercially. The paid pack has its own terms.
 
-
 <!-- xlink:start -->
 ## Related free tools
 
