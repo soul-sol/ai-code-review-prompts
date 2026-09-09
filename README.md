@@ -40,6 +40,10 @@ The complete set adds: concurrency/races, error handling & partial failure, auth
 
 **→ [$7 on Gumroad](https://lifestep1.gumroad.com/l/adversarial-review-prompt-pack)**
 
+Or the [Complete Agent Ops Kit](https://lifestep1.gumroad.com/l/complete-agent-ops-kit) ($29), which contains
+this pack in full plus the 30 `CLAUDE.md` patterns, the *Solo, Like a Team* book in English and Korean, and
+the orchestration templates in both languages (8 files each). Bought separately: $54.
+
 Related: [agent-watch](https://github.com/soul-sol/agent-watch) (stall detection for background agents) · [Solo, Like a Team — Claude Code Multi-Agent Orchestration in Practice](https://lifestep1.gumroad.com/l/solo-like-a-team-claude-code-orchestration) (the book these come from) · [free orchestration templates](https://github.com/soul-sol/claude-code-orchestration-ko)
 
 ## License
