@@ -9,7 +9,9 @@ Each prompt turns any strong code model (Claude, GPT/codex, etc.) into a hostile
 > The incidents behind them — what the agent claimed, what actually happened, and the
 > gate that catches it next time — are at
 > [status.lifestep.io/incidents](https://status.lifestep.io/incidents/).
-> The full set is [The Adversarial Review Prompt Pack](https://lifestep1.gumroad.com/l/adversarial-review-prompt-pack) ($7);
+> The full set is [The Adversarial Review Prompt Pack](https://lifestep1.gumroad.com/l/adversarial-review-prompt-pack) ($7),
+> or the [Complete Agent Ops Kit](https://lifestep1.gumroad.com/l/complete-agent-ops-kit) ($29) if you also want the
+> `CLAUDE.md` rules, the task briefs and the file-ownership map that keep the diff reviewable in the first place;
 > what is here stays free and MIT either way.
 
 ## The 5 free prompts
