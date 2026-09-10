@@ -44,7 +44,7 @@ Reviewing the diff is the last gate. Most of what these prompts catch was avoida
 underspecified brief, a worker with no change-scope limit, two workers editing the same file. The
 [Complete Agent Ops Kit](https://lifestep1.gumroad.com/l/complete-agent-ops-kit) ($29) covers those
 too: this pack in full, plus 30 `CLAUDE.md` rules, task-brief and file-ownership templates, the
-deploy/rollback gate, and *Solo, Like a Team* in English and Korean. Bought separately: $54.
+deploy/rollback gate, and *Solo, Like a Team* in English and Korean. The same files bought as separate products: $49.
 
 Related: [agent-watch](https://github.com/soul-sol/agent-watch) (stall detection for background agents) · [Solo, Like a Team — Claude Code Multi-Agent Orchestration in Practice](https://lifestep1.gumroad.com/l/solo-like-a-team-claude-code-orchestration) (the book these come from) · [free orchestration templates](https://github.com/soul-sol/claude-code-orchestration-ko)
 
