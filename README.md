@@ -9,8 +9,8 @@ Each prompt turns any strong code model (Claude, GPT/codex, etc.) into a hostile
 > The incidents behind them — what the agent claimed, what actually happened, and the
 > gate that catches it next time — are at
 > [status.lifestep.io/incidents](https://status.lifestep.io/incidents/).
-> The full set is [The Adversarial Review Prompt Pack](https://lifestep1.gumroad.com/l/adversarial-review-prompt-pack) ($7),
-> or the [Complete Agent Ops Kit](https://lifestep1.gumroad.com/l/complete-agent-ops-kit) ($29) if you also want the
+> The full set is [The Adversarial Review Prompt Pack](https://lifestep1.gumroad.com/l/adversarial-review-prompt-pack?utm_source=github&utm_medium=readme&utm_campaign=ai-code-review-prompts) ($7),
+> or the [Complete Agent Ops Kit](https://lifestep1.gumroad.com/l/complete-agent-ops-kit?utm_source=github&utm_medium=readme&utm_campaign=ai-code-review-prompts) ($29) if you also want the
 > `CLAUDE.md` rules, the task briefs and the file-ownership map that keep the diff reviewable in the first place;
 > what is here stays free and MIT either way.
 
@@ -40,15 +40,15 @@ Works the same with `codex exec` or any CLI that accepts a prompt. Model-agnosti
 
 The complete set adds: concurrency/races, error handling & partial failure, authz/IDOR, secrets & logging, performance hot paths, **DB migration safety**, API compatibility, frontend regressions, dependency upgrades, refactoring equivalence, scope creep, **LLM-app prompt injection & token cost**, data pipelines, infra/config, git hygiene, rollback/deploy safety, docs drift, and a **two-model second-opinion protocol** — plus a 55-page PDF with a severity rubric, triage order, and a "reject the whole diff" checklist (EN + Korean guide).
 
-**→ [$7 on Gumroad](https://lifestep1.gumroad.com/l/adversarial-review-prompt-pack)**
+**→ [$7 on Gumroad](https://lifestep1.gumroad.com/l/adversarial-review-prompt-pack?utm_source=github&utm_medium=readme&utm_campaign=ai-code-review-prompts)**
 
 Reviewing the diff is the last gate. Most of what these prompts catch was avoidable earlier — an
 underspecified brief, a worker with no change-scope limit, two workers editing the same file. The
-[Complete Agent Ops Kit](https://lifestep1.gumroad.com/l/complete-agent-ops-kit) ($29) covers those
+[Complete Agent Ops Kit](https://lifestep1.gumroad.com/l/complete-agent-ops-kit?utm_source=github&utm_medium=readme&utm_campaign=ai-code-review-prompts) ($29) covers those
 too: this pack in full, plus 30 `CLAUDE.md` rules, task-brief and file-ownership templates, the
 deploy/rollback gate, and *Solo, Like a Team* in English and Korean. The same files bought as separate products: $49.
 
-Related: [agent-watch](https://github.com/soul-sol/agent-watch) (stall detection for background agents) · [Solo, Like a Team — Claude Code Multi-Agent Orchestration in Practice](https://lifestep1.gumroad.com/l/solo-like-a-team-claude-code-orchestration) (the book these come from) · [free orchestration templates](https://github.com/soul-sol/claude-code-orchestration-ko)
+Related: [agent-watch](https://github.com/soul-sol/agent-watch) (stall detection for background agents) · [Solo, Like a Team — Claude Code Multi-Agent Orchestration in Practice](https://lifestep1.gumroad.com/l/solo-like-a-team-claude-code-orchestration?utm_source=github&utm_medium=readme&utm_campaign=ai-code-review-prompts) (the book these come from) · [free orchestration templates](https://github.com/soul-sol/claude-code-orchestration-ko)
 
 ## License
 
